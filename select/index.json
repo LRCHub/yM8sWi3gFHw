@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "被動",
+  "base_artist": "伍佰 & China Blue",
+  "createdAt": "2026-03-01T11:05:44.176013Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "被動 feat. 伍佰 - Live",
+      "artist": "LaLa Hsu feat. Wu Bai",
+      "has_synced": true,
+      "path": "select/01_被動_feat._伍佰_-_Live_LaLa_Hsu_feat._Wu_Bai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "被動 feat. 伍佰 (Live) (feat. 伍佰)",
+      "artist": "徐佳瑩",
+      "has_synced": true,
+      "path": "select/02_被動_feat._伍佰_(Live)_(feat._伍佰)_徐佳瑩.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "被動",
+      "artist": "伍佰",
+      "has_synced": true,
+      "path": "select/03_被動_伍佰.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "被動",
+      "artist": "伍佰 & China Blue",
+      "has_synced": true,
+      "path": "select/04_被動_伍佰_&_China_Blue.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "被動 feat. 伍佰 (Live)（合作音乐人：伍佰）",
+      "artist": "徐佳瑩",
+      "has_synced": true,
+      "path": "select/05_被動_feat._伍佰_(Live)(合作音乐人_伍佰)_徐佳瑩.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "被動 - Live",
+      "artist": "Wu Bai",
+      "has_synced": true,
+      "path": "select/06_被動_-_Live_Wu_Bai.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "被動",
+      "artist": "Wu Bai",
+      "has_synced": true,
+      "path": "select/07_被動_Wu_Bai.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "被動 feat. 伍佰 - Live",
+      "artist": "LaLa Hsu",
+      "has_synced": true,
+      "path": "select/08_被動_feat._伍佰_-_Live_LaLa_Hsu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "被動",
+      "artist": "蘇慧倫",
+      "has_synced": false,
+      "path": "select/09_被動_蘇慧倫.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "被動",
+      "artist": "蘇慧倫",
+      "has_synced": true,
+      "path": "select/10_被動_蘇慧倫.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "被動 feat. 伍佰 (Live)",
+      "artist": "徐佳瑩",
+      "has_synced": true,
+      "path": "select/11_被動_feat._伍佰_(Live)_徐佳瑩.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "被動(國語)",
+      "artist": "蘇慧倫",
+      "has_synced": true,
+      "path": "select/12_被動(國語)_蘇慧倫.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "被動",
+      "artist": "伍佰 & China Blue",
+      "has_synced": true,
+      "path": "select/13_被動_伍佰_&_China_Blue.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "被動 (“雙面對決” Live)",
+      "artist": "伍佰 & China Blue",
+      "has_synced": true,
+      "path": "select/14_被動_(“雙面對決”_Live)_伍佰_&_China_Blue.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "被動",
+      "artist": "伍佰 & China Blue",
+      "has_synced": true,
+      "path": "select/15_被動_伍佰_&_China_Blue.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "被動",
+      "artist": "蘇慧倫 - Tarcy Su",
+      "has_synced": true,
+      "path": "select/16_被動_蘇慧倫_-_Tarcy_Su.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "被動",
+      "artist": "伍佰",
+      "has_synced": true,
+      "path": "select/17_被動_伍佰.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "被動 (feat. 伍佰) [Live]",
+      "artist": "徐佳瑩",
+      "has_synced": true,
+      "path": "select/18_被動_(feat._伍佰)_[Live]_徐佳瑩.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "被動 - “雙面對決” Live",
+      "artist": "Wu Bai",
+      "has_synced": true,
+      "path": "select/19_被動_-_“雙面對決”_Live_Wu_Bai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "被動",
+      "artist": "伍佰, China Blue",
+      "has_synced": false,
+      "path": "select/pl_01_被動_伍佰,_China_Blue.txt"
+    }
+  ]
+}
